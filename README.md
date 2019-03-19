@@ -16,6 +16,7 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/purescript/comments/9au5ke/job_opening_at_awake_security/) | Yes (US Only)
+[CitizenNet](https://citizennet.com/) | Los Angeles, CA, USA | Social Media/Advertising | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/4), [Github](https://github.com/citizennet?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
 [JusPay](https://juspay.in/) | Bangalore, India | Payments | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/5), [Github](https://github.com/juspay?language=purescript) | ?
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | Packaging | [Medium](https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13), [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/2) | Yes
