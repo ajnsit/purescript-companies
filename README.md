@@ -23,3 +23,4 @@ Some of these companies support remote hires. Where that information is availabl
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | Packaging | [Medium](https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13), [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/2) | Yes
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global), [HN](https://news.ycombinator.com/item?id=16062505) | No
 [SlamData](https://slamdata.com) | Boulder, CO, USA | Data science | [GitHub](https://github.com/slamdata?language=purescript) | Yes
+[Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
