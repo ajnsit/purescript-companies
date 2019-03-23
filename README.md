@@ -16,6 +16,7 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/purescript/comments/9au5ke/job_opening_at_awake_security/) | Yes (US Only)
+[BucketLabs](http://www.bucketlabs.nz/) | Wellington, New Zealand | Geospatial Data | [Pull Request](https://github.com/ajnsit/purescript-companies/pull/5#issuecomment-475827505) | No
 [CitizenNet](https://citizennet.com/) | Los Angeles, CA, USA | Social Media/Advertising | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/4), [Github](https://github.com/citizennet?language=purescript) | Yes (US Only)
 [FOAM](https://foam.space/) | NYC, USA | Blockchain/Location | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/3), [Github](https://github.com/f-o-a-m?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
@@ -25,4 +26,3 @@ Some of these companies support remote hires. Where that information is availabl
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global), [HN](https://news.ycombinator.com/item?id=16062505) | No
 [SlamData](https://slamdata.com) | Boulder, CO, USA | Data science | [GitHub](https://github.com/slamdata?language=purescript) | Yes
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
-[BucketLabs](http://www.bucketlabs.nz/) | Wellington, New Zealand | Geospatial Data | | No
