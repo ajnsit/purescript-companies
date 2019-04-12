@@ -26,3 +26,4 @@ Some of these companies support remote hires. Where that information is availabl
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global), [HN](https://news.ycombinator.com/item?id=16062505) | No
 [SlamData](https://slamdata.com) | Boulder, CO, USA | Data science | [GitHub](https://github.com/slamdata?language=purescript) | Yes
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
+[Zalando](https://zalando.de) | Berlin, Germany | E-Commerce | reactormonk | No
