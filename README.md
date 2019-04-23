@@ -38,4 +38,4 @@ Some of these companies support remote hires. Where that information is availabl
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
 [Viewbook](https://viewbook.com/) | Rotterdam, Netherlands | Photography/Saas | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d8qlsn6/) | ?
 [Xamarin](http://xamarin.com/) | ? | Developer Tools | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvjkbz2/) | ?
-[Zalando](https://zalando.de) | Berlin, Germany | E-Commerce | reactormonk | No
+[Zalando](https://zalando.de) | Berlin, Germany | E-Commerce | [PR](https://github.com/ajnsit/purescript-companies/pull/8) | No
