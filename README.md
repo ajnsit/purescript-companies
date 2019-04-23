@@ -15,15 +15,27 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Ambiata](http://ambiata.com) | Sydney, Australia | Machine Learning | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7yc7gt/) | ?
+[Ambra Health](https://ambrahealth.com) | ? | Medical Imaging Saas | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvji3oy/) | ?
+[Atomic IT Solutions](http://atomicits.com/) | Chennai, India | IT Consulting | [Reddit](https://www.reddit.com/r/purescript/comments/63n18c/what_are_you_using_purescript_for/djlfw7a/), [Github](https://github.com/atomicits) | ?
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/purescript/comments/9au5ke/job_opening_at_awake_security/) | Yes (US Only)
+[Azara](https://www.azara.io) | Boulder, CO, USA | Saas | [Reddit](https://www.reddit.com/r/purescript/comments/828nex/azara_is_hiring/) | Yes
 [BucketLabs](http://www.bucketlabs.nz/) | Wellington, New Zealand | Geospatial Data | [Pull Request](https://github.com/ajnsit/purescript-companies/pull/5#issuecomment-475827505) | No
+[Bustle](https://bustle.company/) | NY, USA | Web Publishing | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7w09gw/) | ?
 [CitizenNet](https://citizennet.com/) | Los Angeles, CA, USA | Social Media/Advertising | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/4), [Github](https://github.com/citizennet?language=purescript) | Yes (US Only)
+[Consolidated Knowledge](https://knledg.com/) | ? | Custom Software Development | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vz94t/) | ?
 [FOAM](https://foam.space/) | NYC, USA | Blockchain/Location | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/3), [Github](https://github.com/f-o-a-m?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
+[Jane](https://jane.com) | Lehi, Utah, USA | Marketplace | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vyjmy/) | ?
 [JusPay](https://juspay.in/) | Bangalore, India | Payments | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/5), [Github](https://github.com/juspay?language=purescript) | Yes
 [KSF Media](https://www.hbl.fi/) | Helsinki, Finland | Media | [GitHub](https://github.com/KSF-Media/affresco) | No
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | Packaging | [Medium](https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13), [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/2) | Yes
+[Metrix Financial Reporting Solutions](http://metrix-financial-reporting-solutions.de/) | Hamburg, Germany | Finance | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7xaniu/) | ?
+[Middlebury Interactive Languages](http://www.middleburyinteractive.com/) | Middlebury, Vermont, USA | Education/Saas | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvkerae/) | ?
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global), [HN](https://news.ycombinator.com/item?id=16062505) | No
 [SlamData](https://slamdata.com) | Boulder, CO, USA | Data science | [GitHub](https://github.com/slamdata?language=purescript) | Yes
+[Standard Chartered Bank](https://sc.com) | Singapore | Finance | [Reddit](https://www.reddit.com/r/purescript/comments/610quy/hiring_purescript_ui_developers_for_haskell/) | ?
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
+[Viewbook](https://viewbook.com/) | Rotterdam, Netherlands | Photography/Saas | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d8qlsn6/) | ?
+[Xamarin](http://xamarin.com/) | ? | Developer Tools | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvjkbz2/) | ?
 [Zalando](https://zalando.de) | Berlin, Germany | E-Commerce | reactormonk | No
