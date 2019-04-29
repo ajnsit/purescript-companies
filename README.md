@@ -26,6 +26,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Consolidated Knowledge](https://knledg.com/) | ? | Custom Software Development | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vz94t/) | ?
 [FOAM](https://foam.space/) | NYC, USA | Blockchain/Location | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/3), [Github](https://github.com/f-o-a-m?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
+[IOHK](https://iohk.io) | Remote | Blockchain research | [Github](https://github.com/input-output-hk)| Yes
 [Jane](https://jane.com) | Lehi, Utah, USA | Marketplace | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vyjmy/) | ?
 [JusPay](https://juspay.in/) | Bangalore, India | Payments | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/5), [Github](https://github.com/juspay?language=purescript) | Yes
 [KSF Media](https://www.hbl.fi/) | Helsinki, Finland | Media | [GitHub](https://github.com/KSF-Media/affresco) | No
