@@ -37,6 +37,7 @@ Some of these companies support remote hires. Where that information is availabl
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global), [HN](https://news.ycombinator.com/item?id=16062505) | No
 [SlamData](https://slamdata.com) | Boulder, CO, USA | Data science | [GitHub](https://github.com/slamdata?language=purescript) | Yes
 [Standard Chartered Bank](https://sc.com) | Singapore | Finance | [Reddit](https://www.reddit.com/r/purescript/comments/610quy/hiring_purescript_ui_developers_for_haskell/) | ?
+[State of Wisconsin Consolidated Court Automation Programs (CCAP)](https://www.wicourts.gov/courts/offices/ccap.htm) | Madison, WI, USA | Government | [Job Listing](https://wisc.jobs/public/print_view.asp?jobid=93347&annoid=93833), [GitHub](https://github.com/ccap/purescript-ccap-codegen) | ?
 [Statebox](https://statebox.io) | Amsterdam, Netherlands | Verification | [PR](https://github.com/ajnsit/purescript-companies/pull/9) | Yes
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
 [Viewbook](https://viewbook.com/) | Rotterdam, Netherlands | Photography/Saas | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d8qlsn6/) | ?
