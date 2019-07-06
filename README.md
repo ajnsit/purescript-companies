@@ -17,6 +17,7 @@ Some of these companies support remote hires. Where that information is availabl
 | :--- | :------- | :----- | :----- | :--------- |
 [Ambiata](http://ambiata.com) | Sydney, Australia | Machine Learning | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7yc7gt/) | ?
 [Ambra Health](https://ambrahealth.com) | ? | Medical Imaging Saas | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvji3oy/) | ?
+[ARoW Co., Ltd.](https://arow.info/index-en.html) | Tokyo, Japan | IT Consulting | [Employee Page](https://functor.tokyo/about) | Yes
 [Atomic IT Solutions](http://atomicits.com/) | Chennai, India | IT Consulting | [Reddit](https://www.reddit.com/r/purescript/comments/63n18c/what_are_you_using_purescript_for/djlfw7a/), [Github](https://github.com/atomicits) | ?
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/purescript/comments/9au5ke/job_opening_at_awake_security/) | Yes (US Only)
 [Azara](https://www.azara.io) | Boulder, CO, USA | Saas | [Reddit](https://www.reddit.com/r/purescript/comments/828nex/azara_is_hiring/) | Yes
