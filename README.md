@@ -1,8 +1,11 @@
 # A List of Companies That Use Purescript
 
 There are similar lists for companies that use the following functional languages:
-1. [Haskell](https://github.com/erkmos/haskell-companies).
-2. [F#](https://github.com/Kavignon/fsharp-companies).
+
+1. [Elixir](https://github.com/beam-community/elixir-companies)
+2. [Elm](https://github.com/jah2488/elm-companies)
+3. [F#](https://github.com/Kavignon/fsharp-companies)
+4. [Haskell](https://github.com/erkmos/haskell-companies)
 
 ### Updates
 This list is curated by the community, and depends on your contributions. If you see a company on the list that doesn't exist anymore, or does not use Purescript anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses Purescript but is not on the list. Please include the website, github (if applicable), locations, sector and whether the company allows developers to work remotely.
