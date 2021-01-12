@@ -30,7 +30,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Bustle](https://bustle.company/) | NY, USA | Web Publishing | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7w09gw/) | ?
 [CitizenNet](https://citizennet.com/) | Los Angeles, CA, USA | Social Media/Advertising | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/4), [Github](https://github.com/citizennet?language=purescript) | Yes (US Only)
 [Consolidated Knowledge](https://knledg.com/) | ? | Custom Software Development | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vz94t/) | ?
-[CollegeVine](https://collegevine.com/) | Boston, USA (HQ) + remote | Education | [Blog](https://medium.com/collegevine-engineering), [GitHub](https://github.com/collegevine?language=purescript), [Jobs](https://jobs.lever.co/collegevine?department=R%26D&team=Software%20Engineering) | Yes (US only)
+[CollegeVine](https://collegevine.com/) | Boston, USA (HQ) + remote | Education | [Blog](https://medium.com/collegevine-engineering), [GitHub](https://github.com/collegevine?language=purescript) | Yes (US only)
 [Cross Compass](https://www.cross-compass.com/en/front-page/) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
 [FOAM](https://foam.space/) | NYC, USA | Blockchain/Location | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/3), [Github](https://github.com/f-o-a-m?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
