@@ -49,6 +49,7 @@ Some of these companies support remote hires. Where that information is availabl
 [State of Wisconsin Consolidated Court Automation Programs (CCAP)](https://www.wicourts.gov/courts/offices/ccap.htm) | Madison, WI, USA | Government | [Job Listing](https://wisc.jobs/public/print_view.asp?jobid=93347&annoid=93833), [GitHub](https://github.com/ccap/purescript-ccap-codegen) | ?
 [Statebox](https://statebox.io) | Amsterdam, Netherlands | Verification | [PR](https://github.com/ajnsit/purescript-companies/pull/9) | Yes
 [Tocoman](https://tocoman.fi) | Helsinki, Finland | Construction | [GitHub](https://github.com/tocoman/spacchetti) | No
+[UnfoldML](https://unfoldml.com) | Gothenburg, Sweden | SaaS, Machine Learning research | [GitHub](https://github.com/unfoldml) | No
 [Viewbook](https://viewbook.com/) | Rotterdam, Netherlands | Photography/Saas | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d8qlsn6/) | ?
 [Xamarin](http://xamarin.com/) | ? | Developer Tools | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvjkbz2/) | ?
 [Zalando](https://zalando.de) | Berlin, Germany | E-Commerce | [PR](https://github.com/ajnsit/purescript-companies/pull/8) | No
