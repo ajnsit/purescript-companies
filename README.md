@@ -31,7 +31,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Consolidated Knowledge](https://knledg.com/) | ? | Custom Software Development | [Reddit](https://www.reddit.com/r/purescript/comments/53r4v7/using_purescript_for_work_sept_16/d7vz94t/) | ?
 [CollegeVine](https://collegevine.com/) | Boston, USA (HQ) + remote | Education | [Blog](https://medium.com/collegevine-engineering), [GitHub](https://github.com/collegevine?language=purescript) | Yes (US only)
 [Cross Compass](https://www.cross-compass.com/en/front-page/) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
-[e-bot7](https://e-bot7.com) | Munich, Germany | Conversational AI | [Job Ad](https://e-bot7.join.com/jobs/1793458-senior-haskell-and-purescript-developer-m-f-d) | No
 [Feram](https://www.feram.io) | Germany, Frankfurt | Consulting, Custom Software | [GitHub](https://github.com/feramhq?language=purescript) | Yes
 [FOAM](https://foam.space/) | NYC, USA | Blockchain/Location | [Discourse](https://discourse.purescript.org/t/do-you-have-a-purescript-app-in-production/20/3), [Github](https://github.com/f-o-a-m?language=purescript) | ?
 [Habito](https://www.habito.com/) | London, UK | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
